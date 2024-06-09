@@ -1,4 +1,4 @@
-# ML3_Fianl-Project_TsaiYunLi
+# ML3_Final-Project_TsaiYunLi
 In this project, my goal is to solve the Kaggle competition task, a multi-class classification problem, of predicting some BBC news article categories by training and comparing two models on the provided labelled news articles:
 1. a none-deep learning hybrid model, TFIDF_LR = a term frequency–inverse document frequency (TF-IDF) vectorizer + a logistic regression (LR) classifier
 2. and a deep learning hybrid model, TFIDF_ANN = an TF-IDF vectorizer + an artificial neural network (ANN) classifier
